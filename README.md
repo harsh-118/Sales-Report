@@ -47,3 +47,9 @@ After analyzing the data and creating visualizations, save your Power BI file (.
 
 # Additional Resources
 * For more detailed guidance on using Power BI, refer to the official [Power BI documentation](https://learn.microsoft.com/en-us/power-bi/).
+
+# Sales Analysis Dashboard
+![Screenshot (61)](https://github.com/harsh-118/Sales-Report/assets/166591573/f175f516-f155-4fd9-951e-35b30339e8ca)
+
+# Preview of Sales Analysis Dashboard
+[screen-capture.webm](https://github.com/harsh-118/Sales-Report/assets/166591573/47d552d9-85a5-4c41-8f8c-83f24a7a9b35)
